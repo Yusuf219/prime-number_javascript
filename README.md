@@ -1,1 +1,1 @@
-# prime-number_javascript
+Outputs prime numbers from 2 to n (input)
